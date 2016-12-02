@@ -1,2 +1,4 @@
 # hello-world
-Hey-o
+Hey-o!
+
+I am totally new to coding.
